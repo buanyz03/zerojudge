@@ -1,1 +1,1 @@
-# zerojudge
+# zerojudge code
